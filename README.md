@@ -17,6 +17,7 @@ Problemas
 | ------------------ | ---------------- | ----------- |
 | 332 | [Reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | Difícil |
 | 997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge/description/) | Facil |
+| 329 | [Longest Increasing Path](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Dificil |
 
 
 ## Screenshots
@@ -25,6 +26,8 @@ Reconstruct_Itinerary
 
 Find the town judge
 <div align="center"><img src="/997.Find_the_town_judge/Find_the_town_judge.png" height=auto width=auto></div>
+
+Longest Increasing Path
 
 ## Instalação 
 **Linguagem**: C++<br>
