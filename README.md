@@ -35,6 +35,15 @@ Find the town judge
 git clone https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestionsBe.git
 ```
 
+## Videos 
+Reconstruct-itinerary
+[clique aqui](https://www.youtube.com/watch?v=3qh1l7i9GAg)
+
+
+Find the town judge
+[clique aqui](https://www.youtube.com/watch?v=bZ4dyG1g3Eg)
+
+
 
 
 
