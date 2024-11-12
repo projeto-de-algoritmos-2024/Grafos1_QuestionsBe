@@ -13,10 +13,12 @@
 Este repositório tem como objetivo apresentar as soluções das questões selecionadas, com o intuito de demonstrar os conhecimentos adquiridos durante as aulas.
 
 Problemas
-| Código | Nome | Dificuldade |
-| ------------------ | ---------------- | ----------- |
-| 332 | [Reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | Difícil |
-| 997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge/description/) | Facil |
+| Código | Nome | Dificuldade | Vídeo |
+| ------------------ | ---------------- | ----------- | ------------------ |
+| 332 | [Reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | Difícil | [clique aqui](https://www.youtube.com/watch?v=3qh1l7i9GAg) |
+| 997 | [Find the town judge](https://leetcode.com/problems/find-the-town-judge/description/) | Facil | [clique aqui](https://www.youtube.com/watch?v=bZ4dyG1g3Eg) |
+| 329 | [Longest Increasing Path](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | Dificil | [clique aqui](https://youtu.be/GA2u1u4W2DQ) |
+
 
 
 ## Screenshots
@@ -26,6 +28,9 @@ Reconstruct_Itinerary
 Find the town judge
 <div align="center"><img src="/997.Find_the_town_judge/Find_the_town_judge.png" height=auto width=auto></div>
 
+Longest Increasing Path
+<div align="center"><img src="/329.Longest_increasing_path/Longest_increasing_path.png" height=auto width=auto></div>
+
 ## Instalação 
 **Linguagem**: C++<br>
 
@@ -34,14 +39,6 @@ Find the town judge
 ```bash
 git clone https://github.com/projeto-de-algoritmos-2024/Grafos1_QuestionsBe.git
 ```
-
-## Videos 
-Reconstruct-itinerary
-[clique aqui](https://www.youtube.com/watch?v=3qh1l7i9GAg)
-
-
-Find the town judge
-[clique aqui](https://www.youtube.com/watch?v=bZ4dyG1g3Eg)
 
 
 
